@@ -1,0 +1,1 @@
+long facto(int);
